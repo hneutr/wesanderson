@@ -1,0 +1,4 @@
+dist
+wesanderson.egg-info
+env
+*/__pycache__
