@@ -14,45 +14,48 @@ __version__ = package_info.__version__
 
 
 color_palettes = {
-    "Bottle Rocket":[
+    "Bottle Rocket": [
         ["#A42820", "#5F5647", "#9B110E", "#3F5151", "#4E2A1E", "#550307", "#0C1707"],
         ["#FAD510", "#CB2314", "#273046", "#354823", "#1E1E1E"],
     ],
-    "Rushmore":[
+    "Rushmore": [
         ["#E1BD6D", "#EABE94", "#0B775E", "#35274A" ,"#F2300F"],
     ],
-    "The Royal Tenenbaums":[
+    "The Royal Tenenbaums": [
         ["#899DA4", "#C93312", "#FAEFD1", "#DC863B"],
         ["#9A8822", "#F5CDB4", "#F8AFA8", "#FDDDA0", "#74A089"],
     ],
-    "The Life Aquatic with Steve Zissou":[
+    "The Life Aquatic with Steve Zissou": [
         ["#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"],
     ],
-    "Darjeeling Limited":[
+    "Darjeeling Limited": [
         ["#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6"],
         ["#ECCBAE", "#046C9A", "#D69C4E", "#ABDDDE", "#000000"],
     ],
-    "Hotel Chevalier":[
+    "Hotel Chevalier": [
         ["#446455", "#FDD262", "#D3DDDC", "#C7B19C"],
     ],
-    "Fantastic Mr. Fox":[
+    "Fantastic Mr. Fox": [
         ["#DD8D29", "#E2D200", "#46ACC8", "#E58601", "#B40F20"],
     ],
-    "Moonrise Kingdom":[
+    "Moonrise Kingdom": [
         ["#F3DF6C", "#CEAB07", "#D5D5D3", "#24281A"],
         ["#798E87", "#C27D38", "#CCC591", "#29211F"],
         ["#85D4E3", "#F4B5BD", "#9C964A", "#CDC08C", "#FAD77B"],
     ],
-    "Castello Cavalcanti":[
+    "Castello Cavalcanti": [
         ["#D8B70A", "#02401B", "#A2A475", "#81A88D", "#972D15"],
     ],
-    "The Grand Budapest Hotel":[
+    "The Grand Budapest Hotel": [
         ["#F1BB7B", "#FD6467", "#5B1A18", "#D67236"],
         ["#E6A0C4", "#C6CDF7", "#D8A499", "#7294D4"],
     ],
-    "Isle of Dogs":[
+    "Isle of Dogs": [
         ["#9986A5", "#79402E", "#CCBA72", "#0F0D0E", "#D9D0D3", "#8D8680"],
         ["#EAD3BF", "#AA9486", "#B6854D", "#39312F", "#1C1718"],
+    ],
+    "The French Dispatch": [
+        ["#C4AA23", "#FBE45B", "#2C7C94", "#A65852", "#A6D0C8", "#343C24"],
     ],
 }
 
