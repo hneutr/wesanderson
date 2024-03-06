@@ -55,7 +55,7 @@ color_palettes = {
         ["#EAD3BF", "#AA9486", "#B6854D", "#39312F", "#1C1718"],
     ],
     "The French Dispatch": [
-        ["#C4AA23", "#FBE45B", "#2C7C94", "#A65852", "#A6D0C8", "#343C24"],
+        ["#90D4CC", "#BD3027", "#B0AFA2", "#7FC0C6", "#9D9C85"],
     ],
 }
 
