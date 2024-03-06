@@ -57,6 +57,11 @@ color_palettes = {
     "The French Dispatch": [
         ["#90D4CC", "#BD3027", "#B0AFA2", "#7FC0C6", "#9D9C85"],
     ],
+    "Asteroid City": [
+        ["#0A9F9D", "#CEB175", "#E54E21", "#6C8645", "#C18748"],
+        ["#C52E19", "#AC9765", "#54D8B1", "#b67c3b", "#175149", "#AF4E24"],
+        ["#FBA72A", "#D3D4D8", "#CB7A5C", "#5785C1"]
+    ]
 }
 
 
