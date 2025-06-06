@@ -32,9 +32,6 @@ color_palettes = {
         ["#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6"],
         ["#ECCBAE", "#046C9A", "#D69C4E", "#ABDDDE", "#000000"],
     ],
-    "Hotel Chevalier": [
-        ["#446455", "#FDD262", "#D3DDDC", "#C7B19C"],
-    ],
     "Fantastic Mr. Fox": [
         ["#DD8D29", "#E2D200", "#46ACC8", "#E58601", "#B40F20"],
     ],
@@ -42,9 +39,6 @@ color_palettes = {
         ["#F3DF6C", "#CEAB07", "#D5D5D3", "#24281A"],
         ["#798E87", "#C27D38", "#CCC591", "#29211F"],
         ["#85D4E3", "#F4B5BD", "#9C964A", "#CDC08C", "#FAD77B"],
-    ],
-    "Castello Cavalcanti": [
-        ["#D8B70A", "#02401B", "#A2A475", "#81A88D", "#972D15"],
     ],
     "The Grand Budapest Hotel": [
         ["#F1BB7B", "#FD6467", "#5B1A18", "#D67236"],
@@ -56,6 +50,15 @@ color_palettes = {
     ],
     "The French Dispatch": [
         ["#C4AA23", "#FBE45B", "#2C7C94", "#A65852", "#A6D0C8", "#343C24"],
+    ],
+    "Asteroid City": [
+        ["#CEA567", "#B17340", "#DC421C", "#424436", "#3DA38D"],
+    ],
+    "Hotel Chevalier": [
+        ["#446455", "#FDD262", "#D3DDDC", "#C7B19C"],
+    ],
+    "Castello Cavalcanti": [
+        ["#D8B70A", "#02401B", "#A2A475", "#81A88D", "#972D15"],
     ],
 }
 
